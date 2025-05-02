@@ -1,0 +1,1 @@
+cd C:\Workspace\Java Program\seleniumWebDriver>mvn  test

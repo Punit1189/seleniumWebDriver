@@ -1,0 +1,31 @@
+13:38:38.203 [TestNG-tests-1] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:39)oggger -  ** Finish Login Test ** 
+13:38:39.627 [TestNG-tests-2] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:17)oggger -  ** Starting Login Test ** 
+13:38:50.551 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger -  Staring of TC001_AccountRegistrationTest 
+13:38:50.551 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger -  Staring of TC001_AccountRegistrationTest 
+13:38:50.553 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:30)oggger -  Clicking on My Account
+13:38:50.553 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:30)oggger -  Clicking on My Account
+13:40:55.268 [TestNG-tests-1] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:17)oggger -  ** Starting Login Test ** 
+13:40:56.784 [TestNG-tests-1] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:39)oggger -  ** Finish Login Test ** 
+13:40:57.149 [TestNG-tests-2] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:17)oggger -  ** Starting Login Test ** 
+13:41:04.328 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger -  Staring of TC001_AccountRegistrationTest 
+13:41:04.330 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:30)oggger -  Clicking on My Account
+13:41:07.890 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger -  Staring of TC001_AccountRegistrationTest 
+13:41:07.890 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:30)oggger -  Clicking on My Account
+13:41:14.989 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:37)oggger -  Entering Details on register page 
+22:04:03.582 [main] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:17)oggger -  ** Starting Login Test ** 
+22:04:06.354 [main] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:39)oggger -  ** Finish Login Test ** 
+22:04:17.796 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger -  Staring of TC001_AccountRegistrationTest 
+22:04:17.799 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:30)oggger -  Clicking on My Account
+22:04:22.474 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:37)oggger -  Entering Details on register page 
+22:04:25.729 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:53)oggger -  Verify the message 
+22:04:25.729 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:71)oggger -  Finishing of TC001_AccountRegistrationTest 
+22:13:19.451 [main] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:17)oggger -  ** Starting Login Test ** 
+22:13:22.307 [main] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:39)oggger -  ** Finish Login Test ** 
+22:13:31.534 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger -  Staring of TC001_AccountRegistrationTest 
+22:13:31.534 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:30)oggger -  Clicking on My Account
+22:13:35.948 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:37)oggger -  Entering Details on register page 
+22:13:38.917 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:53)oggger -  Verify the message 
+22:13:38.918 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:71)oggger -  Finishing of TC001_AccountRegistrationTest 
+22:17:36.027 [main] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:17)oggger -  ** Starting Login Test ** 
+22:17:39.384 [main] INFO  testCases.TC002_LoginTest.verify_loginTest(TC002_LoginTest.java:39)oggger -  ** Finish Login Test ** 
+22:17:54.460 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger -  Staring of TC001_AccountRegistrationTest 
